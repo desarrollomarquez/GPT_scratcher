@@ -1,0 +1,5 @@
+.env
+#ignore all files inside outputs folder
+outputs/*
+headers.py
+README.md
